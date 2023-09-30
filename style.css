@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    margin: 10px 0;
+}
+
+.resume{
+    border: 2px solid black;
+    margin: 5vh 20vw;
+}
+
+.personal-info{
+    /* border: 2px solid red; */
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding: 15px;
+}
+
+.personal-info h1{
+    margin: 10px;
+}
+
+.details{
+    display: flex;
+}
+
+.skills{
+    border-right: 2px solid black;
+    width: 20%;
+    padding: 50px;
+}
+
+.skills ul li{
+    margin: 10px;
+}
+
+.objective{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.education{
+    margin: 20px 50px;
+}
+
+.projects{
+    margin: 20px 50px;
+}
+
+.projects li{
+    margin-left: 40px;
+}
+
+.git{
+    margin: 20px 50px;
+}
+
+.hobbies{
+    margin: 20px 50px;
+}
